@@ -1,0 +1,7 @@
+C:\Users\opilane\source\repos\Kinosaal_Blinov\Kinosaal_Blinov\bin\Debug\Kinosaal_Blinov.exe.config
+C:\Users\opilane\source\repos\Kinosaal_Blinov\Kinosaal_Blinov\bin\Debug\Kinosaal_Blinov.exe
+C:\Users\opilane\source\repos\Kinosaal_Blinov\Kinosaal_Blinov\bin\Debug\Kinosaal_Blinov.pdb
+C:\Users\opilane\source\repos\Kinosaal_Blinov\Kinosaal_Blinov\obj\Debug\Kinosaal_Blinov.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Kinosaal_Blinov\Kinosaal_Blinov\obj\Debug\Kinosaal_Blinov.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Kinosaal_Blinov\Kinosaal_Blinov\obj\Debug\Kinosaal_Blinov.exe
+C:\Users\opilane\source\repos\Kinosaal_Blinov\Kinosaal_Blinov\obj\Debug\Kinosaal_Blinov.pdb
