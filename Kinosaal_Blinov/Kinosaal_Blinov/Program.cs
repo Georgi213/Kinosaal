@@ -146,12 +146,12 @@ namespace Kinosaal_Blinov
             while (true)//оператор while принимает выражения saal_ekraanile и muuk и выполняет тело цикла
             {//выражения принимают значения true
                 Saal_ekraanile();
-                Console.WriteLine("1-ise valik, 2-masina valik");
+                Console.WriteLine("1-ise valik, 2-masina valik");//машинный или автоматический выбор и собственный выбор
                 int valik = int.Parse(Console.ReadLine());
                 if (valik == 1)
                 {
                     int koh = 0;
-                    Console.WriteLine("Mittu piletid tahad osta?");
+                    Console.WriteLine("Mittu piletid tahad osta?");//Сколько билетов хотите купить?
                     int kogus = int.Parse(Console.ReadLine());
                     bool a = false;
                     while (a != true)
